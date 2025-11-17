@@ -1,4 +1,7 @@
-# learning-rendertarget
+# RenderTarget サンプル
+
+> [!NOTE]
+> 本リポジトリは、Three.js の RenderTarget の理解のために AI に作成してもらったサンプルコードです。
 
 このフォルダは ScenePainter.js を理解するためのレンダーターゲット学習ノートです。章ごとに Three.js とネイティブ WebGL の観点を切り分けてあり、必要に応じてサンプルコードも掲載しています。
 

@@ -1,4 +1,4 @@
-import * as THREE from '../../three.module.js';
+import * as THREE from './three.module.js';
 
 const canvas = document.querySelector('#app');
 const renderer = new THREE.WebGLRenderer({ canvas, antialias: true });
